@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "CIRCUIT-ANALOG",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "c0044f41d47ebb962b54ea622a32028413aa3982b1d57245194b82cce74d14dd"
+  }
+}

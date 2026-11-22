@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for deterministic transistor-level analogue circuit studies: operating points, small-signal and transient response, oscillator and phase-locked-loop jitter bounds, brown-out reset hysteresis, ageing margins, statistical Monte Carlo mismatch yield bounds and dual-simulator consensus. No SPICE study runner, Monte Carlo mismatch harness, dual-simulator comparator or qualified record schema is released.",
+  "keywords": [
+    "analogue circuit simulation",
+    "Monte Carlo mismatch",
+    "dual-simulator consensus",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Analog",
+  "upload_type": "software"
+}
